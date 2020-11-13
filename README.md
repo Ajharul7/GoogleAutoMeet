@@ -2,7 +2,7 @@
 A simple script written in Python to Auto Join your Google Meet Classes
 ## Follow This Step To Successfully Start the Script:
 Step 1 : Install **Selenium** (Goto Your Ternimal or Powershell and Type : *pip install selenium*) <br/>
-Step 2 : Install The Chrome Driver (**Link:** [ChromeDriver](https://chromedriver.storage.googleapis.com/index.html?path=86.0.4240.22)) <br/>
+Step 2 : Install The Chrome Driver (**Link:** [ChromeDriver](https://chromedriver.chromium.org/)) <br/>
 Step 3 : Enter the path of your Chrome Driver on **Line 22** of [GoogleAutoMeet.py](https://github.com/Ajharul7/GoogleAutoMeet/blob/main/GoogleAutoMeet.py) <br/>
 Step 4 : Enter Your Email Address on **Line 28** of [GoogleAutoMeet.py](https://github.com/Ajharul7/GoogleAutoMeet/blob/main/GoogleAutoMeet.py) <br/>
 Step 5 : Enter Your Email Address Password on **Line 35** of [GoogleAutoMeet.py](https://github.com/Ajharul7/GoogleAutoMeet/blob/main/GoogleAutoMeet.py) <br/>
