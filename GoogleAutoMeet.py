@@ -6,7 +6,6 @@ from selenium.webdriver.common.keys import Keys
 a = input("Enter Your Google Meet URL:")
 
 options = webdriver.ChromeOptions()
-# options.add_argument("--headless")
 options.add_argument("--disable-infobars")
 options.add_argument("--window-size=1200,900")
 options.add_argument("user-agent='User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36'")
